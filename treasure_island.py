@@ -1,4 +1,4 @@
-print("Welcome to The Knight's Quest!\nYour mission is to find the treasure.")
+print("Welcome to Viswa's Knight's Quest!\nYour mission is to find the treasure.")
 player_name = input("What is your name?: ")
 
 print(
